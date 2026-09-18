@@ -1,0 +1,3 @@
+```bash
+node index.js
+```
