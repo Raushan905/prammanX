@@ -1,3 +1,0 @@
-```bash
-node index.js
-```
